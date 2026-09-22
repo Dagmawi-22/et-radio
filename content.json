@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-09-22T00:00:00Z",
   "stations": [
     {
@@ -51,17 +51,6 @@
       "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ethio-107-8.png"
     },
     {
-      "id": "zami-90-7",
-      "name": "Zami FM",
-      "frequency": "90.7",
-      "city": "Addis Ababa",
-      "language": "Amharic",
-      "tagline": "Music and entertainment",
-      "categories": ["music", "culture"],
-      "streamUrl": "https://stream.zeno.fm/hqe3vwvyu98uv",
-      "accent": "#C77A3C"
-    },
-    {
       "id": "bisrat-101-1",
       "name": "Bisrat FM",
       "frequency": "101.1",
@@ -86,31 +75,20 @@
       "language": "Amharic",
       "tagline": "A fresh voice on the dial",
       "categories": ["news", "music", "talk"],
-      "streamUrl": "",
+      "streamUrl": "https://stream.zeno.fm/txxpndf1wwzuv",
       "accent": "#94572A",
       "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ahadu-94-3.jpeg"
     },
     {
       "id": "ebc-radio",
       "name": "EBC Radio",
-      "frequency": "AM/FM",
+      "frequency": "104.7",
       "city": "National",
-      "language": "Amharic",
-      "tagline": "National public broadcaster",
-      "categories": ["news", "culture"],
-      "streamUrl": "",
+      "language": "English",
+      "tagline": "Public radio in English",
+      "categories": ["news", "culture", "talk"],
+      "streamUrl": "https://stream.zeno.fm/2xguamap7yzuv",
       "accent": "#0F7B3E"
-    },
-    {
-      "id": "sagalee-101-7",
-      "name": "Sagalee Oromiyaa",
-      "frequency": "101.7",
-      "city": "Oromia",
-      "language": "Afaan Oromo",
-      "tagline": "Voice of Oromia",
-      "categories": ["news", "culture"],
-      "streamUrl": "",
-      "accent": "#B08245"
     },
     {
       "id": "voa-amharic",
@@ -120,19 +98,8 @@
       "language": "Amharic",
       "tagline": "International news in Amharic",
       "categories": ["news", "diaspora"],
-      "streamUrl": "",
+      "streamUrl": "https://voa-ingest.akamaized.net/hls/live/2035564/158_323R/playlist.m3u8",
       "accent": "#4A2C1C"
-    },
-    {
-      "id": "kana-cafe",
-      "name": "Kana Cafe Radio",
-      "frequency": "Online",
-      "city": "Diaspora",
-      "language": "Amharic",
-      "tagline": "Coffeehouse conversations",
-      "categories": ["diaspora", "music", "culture"],
-      "streamUrl": "",
-      "accent": "#7A4423"
     },
     {
       "id": "sport-radio",
@@ -142,8 +109,63 @@
       "language": "Amharic",
       "tagline": "Every match, every minute",
       "categories": ["sports", "talk"],
-      "streamUrl": "",
+      "streamUrl": "https://stream.zeno.fm/bqtruhn4q98uv",
       "accent": "#0F7B3E"
+    },
+    {
+      "id": "tirita-97-6",
+      "name": "Tirita FM",
+      "frequency": "97.6",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Talk, music, and city stories",
+      "categories": ["talk", "music", "culture"],
+      "streamUrl": "https://stream.zeno.fm/x751reg18zhvv",
+      "accent": "#A56A32"
+    },
+    {
+      "id": "arada-95-1",
+      "name": "Arada FM",
+      "frequency": "95.1",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Voice of Arada",
+      "categories": ["music", "culture", "talk"],
+      "streamUrl": "https://stream.zeno.fm/6immfxu3d5lvv",
+      "accent": "#BE6A3F"
+    },
+    {
+      "id": "taem-radio",
+      "name": "Taem Radio",
+      "frequency": "Online",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "The taste of the airwaves",
+      "categories": ["music", "talk", "culture"],
+      "streamUrl": "https://stream.zeno.fm/ffg8htkh1k0uv",
+      "accent": "#D08A44"
+    },
+    {
+      "id": "fm-addis-97-1",
+      "name": "FM Addis",
+      "frequency": "97.1",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Addis on the dial",
+      "categories": ["news", "talk", "music"],
+      "streamUrl": "https://stream.zeno.fm/rb6wbrap7yzuv",
+      "accent": "#9C6238"
+    },
+    {
+      "id": "jano-fm",
+      "name": "Jano FM",
+      "frequency": "Online",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "New Ethiopian sounds",
+      "categories": ["music", "culture", "talk"],
+      "streamUrl": "https://stream.zeno.fm/1cyn1as4v68uv",
+      "accent": "#6A3B1F"
     }
   ],
   "programs": [
@@ -227,26 +249,6 @@
       "endTime": "14:00",
       "days": [1, 2, 3, 4, 5],
       "emoji": "🍽"
-    },
-    {
-      "id": "zami-hits",
-      "stationId": "zami-90-7",
-      "title": "Zami Hits",
-      "description": "Top Ethiopian charts, updated weekly.",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "days": [1, 2, 3, 4, 5, 6],
-      "emoji": "📻"
-    },
-    {
-      "id": "zami-weekend",
-      "stationId": "zami-90-7",
-      "title": "Weekend Sessions",
-      "description": "Live sets from Addis DJs.",
-      "startTime": "21:00",
-      "endTime": "23:00",
-      "days": [5, 6],
-      "emoji": "🕺"
     },
     {
       "id": "bisrat-tribune-sport",
