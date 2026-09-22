@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-22T00:00:00Z",
+  "stations": [
+    {
+      "id": "sheger-102-1",
+      "name": "Sheger FM",
+      "frequency": "102.1",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Conversation, culture, and city life",
+      "categories": ["talk", "music", "culture"],
+      "streamUrl": "https://stream.zeno.fm/f3wvbbbn4d0uv",
+      "accent": "#B4553A",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/sheger-102-1.jpeg"
+    },
+    {
+      "id": "fana-98-1",
+      "name": "Fana FM",
+      "frequency": "98.1",
+      "city": "National",
+      "language": "Amharic",
+      "tagline": "News across the nation",
+      "categories": ["news", "talk"],
+      "streamUrl": "https://stream.zeno.fm/2dq54yug43duv",
+      "accent": "#8E5A2B",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/fana-98-1.jpeg"
+    },
+    {
+      "id": "afro-105-3",
+      "name": "Afro FM",
+      "frequency": "105.3",
+      "city": "Addis Ababa",
+      "language": "English",
+      "tagline": "Ethiopia in English",
+      "categories": ["music", "diaspora", "talk"],
+      "streamUrl": "https://stream.zeno.fm/n53wby7g43duv",
+      "accent": "#A0522D",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/afro-105-3.jpg"
+    },
+    {
+      "id": "ethio-107-8",
+      "name": "Ethio FM",
+      "frequency": "107.8",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Everyday radio, everywhere",
+      "categories": ["news", "music", "talk"],
+      "streamUrl": "https://stream.zeno.fm/72y045deqeruv",
+      "accent": "#7A4423",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ethio-107-8.png"
+    },
+    {
+      "id": "zami-90-7",
+      "name": "Zami FM",
+      "frequency": "90.7",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Music and entertainment",
+      "categories": ["music", "culture"],
+      "streamUrl": "https://stream.zeno.fm/hqe3vwvyu98uv",
+      "accent": "#C77A3C"
+    },
+    {
+      "id": "bisrat-101-1",
+      "name": "Bisrat FM",
+      "frequency": "101.1",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Inspiration for the day",
+      "categories": ["religious", "talk", "sports"],
+      "streamUrl": "https://bisratfm-atunwadigital.streamguys1.com/bisratfm",
+      "streamHeaders": {
+        "User-Agent": "ExoPlayer",
+        "Icy-MetaData": "1",
+        "Accept": "audio/mpeg,audio/*;q=0.9,*/*;q=0.8"
+      },
+      "accent": "#5C2E0C",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/bisrat-101-1.jpeg"
+    },
+    {
+      "id": "ahadu-94-3",
+      "name": "Ahadu FM",
+      "frequency": "94.3",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "A fresh voice on the dial",
+      "categories": ["news", "music", "talk"],
+      "streamUrl": "",
+      "accent": "#94572A",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ahadu-94-3.jpeg"
+    },
+    {
+      "id": "ebc-radio",
+      "name": "EBC Radio",
+      "frequency": "AM/FM",
+      "city": "National",
+      "language": "Amharic",
+      "tagline": "National public broadcaster",
+      "categories": ["news", "culture"],
+      "streamUrl": "",
+      "accent": "#0F7B3E"
+    },
+    {
+      "id": "sagalee-101-7",
+      "name": "Sagalee Oromiyaa",
+      "frequency": "101.7",
+      "city": "Oromia",
+      "language": "Afaan Oromo",
+      "tagline": "Voice of Oromia",
+      "categories": ["news", "culture"],
+      "streamUrl": "",
+      "accent": "#B08245"
+    },
+    {
+      "id": "voa-amharic",
+      "name": "VOA Amharic",
+      "frequency": "Online",
+      "city": "Washington DC",
+      "language": "Amharic",
+      "tagline": "International news in Amharic",
+      "categories": ["news", "diaspora"],
+      "streamUrl": "",
+      "accent": "#4A2C1C"
+    },
+    {
+      "id": "kana-cafe",
+      "name": "Kana Cafe Radio",
+      "frequency": "Online",
+      "city": "Diaspora",
+      "language": "Amharic",
+      "tagline": "Coffeehouse conversations",
+      "categories": ["diaspora", "music", "culture"],
+      "streamUrl": "",
+      "accent": "#7A4423"
+    },
+    {
+      "id": "sport-radio",
+      "name": "Sport Radio ET",
+      "frequency": "Online",
+      "city": "Addis Ababa",
+      "language": "Amharic",
+      "tagline": "Every match, every minute",
+      "categories": ["sports", "talk"],
+      "streamUrl": "",
+      "accent": "#0F7B3E"
+    }
+  ],
+  "programs": [
+    {
+      "id": "sheger-yekatit",
+      "stationId": "sheger-102-1",
+      "title": "Yekatit Show",
+      "host": "Meaza Biru",
+      "description": "Morning conversation, coffee, and callers.",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "days": [1, 2, 3, 4, 5],
+      "emoji": "☕"
+    },
+    {
+      "id": "sheger-arts",
+      "stationId": "sheger-102-1",
+      "title": "Arts Corner",
+      "description": "Ethiopian literature, film, and stage.",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "days": [6],
+      "emoji": "🎭"
+    },
+    {
+      "id": "sheger-latenight",
+      "stationId": "sheger-102-1",
+      "title": "Late Night Jazz",
+      "description": "Ethio-jazz till midnight.",
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "days": [4, 5, 6],
+      "emoji": "🎷"
+    },
+    {
+      "id": "fana-morning-news",
+      "stationId": "fana-98-1",
+      "title": "Morning Brief",
+      "description": "National and regional news at the top of the day.",
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "days": [1, 2, 3, 4, 5],
+      "emoji": "📰"
+    },
+    {
+      "id": "fana-evening-news",
+      "stationId": "fana-98-1",
+      "title": "Evening Report",
+      "description": "Wrap-up of the day's stories.",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "emoji": "🌆"
+    },
+    {
+      "id": "afro-breakfast",
+      "stationId": "afro-105-3",
+      "title": "Breakfast in English",
+      "description": "Music, weather, and city guide in English.",
+      "startTime": "07:30",
+      "endTime": "10:00",
+      "days": [1, 2, 3, 4, 5],
+      "emoji": "🥐"
+    },
+    {
+      "id": "afro-drive",
+      "stationId": "afro-105-3",
+      "title": "The Drive",
+      "description": "Rush hour hits and traffic in English.",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "days": [1, 2, 3, 4, 5],
+      "emoji": "🚗"
+    },
+    {
+      "id": "ethio-lunch",
+      "stationId": "ethio-107-8",
+      "title": "Midday Mix",
+      "description": "Lunchtime music and short interviews.",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "days": [1, 2, 3, 4, 5],
+      "emoji": "🍽"
+    },
+    {
+      "id": "zami-hits",
+      "stationId": "zami-90-7",
+      "title": "Zami Hits",
+      "description": "Top Ethiopian charts, updated weekly.",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "days": [1, 2, 3, 4, 5, 6],
+      "emoji": "📻"
+    },
+    {
+      "id": "zami-weekend",
+      "stationId": "zami-90-7",
+      "title": "Weekend Sessions",
+      "description": "Live sets from Addis DJs.",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "days": [5, 6],
+      "emoji": "🕺"
+    },
+    {
+      "id": "bisrat-tribune-sport",
+      "stationId": "bisrat-101-1",
+      "title": "Tribune Sport",
+      "description": "Weekly deep-dive into the biggest football stories.",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "days": [6, 0],
+      "emoji": "⚽",
+      "coverUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/programs/bisrat-tribune-sport.jpeg"
+    },
+    {
+      "id": "bisrat-morning",
+      "stationId": "bisrat-101-1",
+      "title": "Morning Grace",
+      "description": "Reflection and worship to start the day.",
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "emoji": "🕊"
+    },
+    {
+      "id": "ahadu-culture",
+      "stationId": "ahadu-94-3",
+      "title": "Culture Hour",
+      "description": "Traditions, food, and language deep-dives.",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "days": [2, 4],
+      "emoji": "🥁"
+    },
+    {
+      "id": "sport-radio-match",
+      "stationId": "sport-radio",
+      "title": "Match Day Live",
+      "description": "Commentary on Ethiopian Premier League matches.",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "days": [0, 6],
+      "emoji": "⚽"
+    },
+    {
+      "id": "voa-amharic-news",
+      "stationId": "voa-amharic",
+      "title": "VOA Amharic Daily",
+      "description": "International news in Amharic.",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "emoji": "🌍"
+    }
+  ]
+}
