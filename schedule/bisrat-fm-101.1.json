@@ -1,0 +1,113 @@
+{
+  "station": "Bisrat Radio FM 101.1",
+  "timezone_note": "First time is Radio Time [UTC]; times in brackets are Your Time [UTC+3, Africa/Addis Ababa]",
+  "days": [
+    {
+      "day": "Monday",
+      "date": "21st Sep",
+      "programs": [
+        { "title": "Bisrat Sunrise", "time": "6:00 am to 8:30 am", "local_time": "9:00 am to 11:30 am" },
+        { "title": "Music Session", "time": "9:00 am to 9:30 am", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "Bisrat Sport", "time": "9:30 am to 11:00 am", "local_time": "12:30 pm to 2:00 pm" },
+        { "title": "Silegna", "time": "11:00 am to 12:00 pm", "local_time": "2:00 pm to 3:00 pm" },
+        { "title": "Music Session", "time": "12:00 pm to 12:30 pm", "local_time": "3:00 pm to 3:30 pm" },
+        { "title": "Asham", "time": "12:30 pm to 2:00 pm", "local_time": "3:30 pm to 5:00 pm" },
+        { "title": "Bisrat Program", "time": "2:00 pm to 4:00 pm", "local_time": "5:00 pm to 7:00 pm" },
+        { "title": "Mese Resort", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
+        { "title": "Bisrat Program", "time": "6:00 pm to 12:00 am", "local_time": "9:00 pm to 3:00 am" }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "date": "22nd Sep",
+      "programs": [
+        { "title": "Bisrat Sunrise", "time": "6:00 am to 8:30 am", "local_time": "9:00 am to 11:30 am" },
+        { "title": "Auto safety", "time": "8:30 am to 9:00 am", "local_time": "11:30 am to 12:00 pm" },
+        { "title": "Music Session", "time": "9:00 am to 9:30 am", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "Bisrat Sport", "time": "9:30 am to 11:00 am", "local_time": "12:30 pm to 2:00 pm" },
+        { "title": "Yamral", "time": "11:00 am to 12:00 pm", "local_time": "2:00 pm to 3:00 pm" },
+        { "title": "Music Session", "time": "12:00 pm to 12:30 pm", "local_time": "3:00 pm to 3:30 pm" },
+        { "title": "Tribune Sport", "time": "2:00 pm to 4:00 pm", "local_time": "5:00 pm to 7:00 pm" },
+        { "title": "Hulu Addis", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
+        { "title": "Bisrat Program", "time": "6:00 pm to 9:00 pm", "local_time": "9:00 pm to 12:00 am" },
+        { "title": "Seat Elafi", "time": "9:00 pm to 10:00 pm", "local_time": "12:00 am to 1:00 am" },
+        { "title": "Yetibeb Bilchta", "time": "10:00 pm to 12:00 am", "local_time": "1:00 am to 3:00 am" }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "date": "23rd Sep",
+      "programs": [
+        { "title": "Bisrat Sunrise", "time": "6:00 am to 8:30 am", "local_time": "9:00 am to 11:30 am" },
+        { "title": "Live for Life", "time": "8:30 am to 9:00 am", "local_time": "11:30 am to 12:00 pm" },
+        { "title": "Music Session", "time": "9:00 am to 9:30 am", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "Bisrat Sport", "time": "9:30 am to 11:00 am", "local_time": "12:30 pm to 2:00 pm" },
+        { "title": "Silegna", "time": "11:00 am to 12:00 pm", "local_time": "2:00 pm to 3:00 pm" },
+        { "title": "Music Session", "time": "12:00 pm to 12:30 pm", "local_time": "3:00 pm to 3:30 pm" },
+        { "title": "Asham", "time": "12:30 pm to 2:00 pm", "local_time": "3:30 pm to 5:00 pm" },
+        { "title": "Bisrat Program", "time": "1:00 pm to 2:00 pm", "local_time": "4:00 pm to 5:00 pm" },
+        { "title": "Addis Chaweta", "time": "2:00 pm to 4:00 pm", "local_time": "5:00 pm to 7:00 pm" },
+        { "title": "Mese Resort", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
+        { "title": "Bisrat Program", "time": "6:00 pm to 6:30 pm", "local_time": "9:00 pm to 9:30 pm" },
+        { "title": "Question & Answer", "time": "6:30 pm to 8:00 pm", "local_time": "9:30 pm to 11:00 pm" },
+        { "title": "Abol Buna", "time": "8:00 pm to 9:00 pm", "local_time": "11:00 pm to 12:00 am" },
+        { "title": "Seat Elafi", "time": "9:00 pm to 10:00 pm", "local_time": "12:00 am to 1:00 am" },
+        { "title": "Bisrat Program", "time": "10:00 pm to 12:00 am", "local_time": "1:00 am to 3:00 am" }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "date": "24th Sep",
+      "programs": [
+        { "title": "Bisrat Sunrise", "time": "6:00 am to 8:30 am", "local_time": "9:00 am to 11:30 am" },
+        { "title": "Auto safety", "time": "8:30 am to 9:00 am", "local_time": "11:30 am to 12:00 pm" },
+        { "title": "Music Session", "time": "9:00 am to 9:30 am", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "Bisrat Sport", "time": "9:30 am to 11:00 am", "local_time": "12:30 pm to 2:00 pm" },
+        { "title": "Marefia", "time": "11:00 am to 12:00 pm", "local_time": "2:00 pm to 3:00 pm" },
+        { "title": "Music Session", "time": "12:00 pm to 12:30 pm", "local_time": "3:00 pm to 3:30 pm" },
+        { "title": "Bisrat Program", "time": "1:00 pm to 2:00 pm", "local_time": "4:00 pm to 5:00 pm" },
+        { "title": "Bisrat Program", "time": "2:00 pm to 4:00 pm", "local_time": "5:00 pm to 7:00 pm" },
+        { "title": "Hulu Addis", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
+        { "title": "Bisrat Program", "time": "6:00 pm to 6:30 pm", "local_time": "9:00 pm to 9:30 pm" },
+        { "title": "Elfign", "time": "6:30 pm to 9:00 pm", "local_time": "9:30 pm to 12:00 am" },
+        { "title": "From The Shelf", "time": "9:00 pm to 10:00 pm", "local_time": "12:00 am to 1:00 am" },
+        { "title": "Is It", "time": "10:00 pm to 12:00 am", "local_time": "1:00 am to 3:00 am" }
+      ]
+    },
+    {
+      "day": "Friday",
+      "date": "25th Sep",
+      "programs": [
+        { "title": "Bisrat Sunrise", "time": "6:00 am to 8:30 am", "local_time": "9:00 am to 11:30 am" },
+        { "title": "Live for Life", "time": "8:30 am to 9:00 am", "local_time": "11:30 am to 12:00 pm" },
+        { "title": "Music Session", "time": "9:00 am to 9:30 am", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "Bisrat Sport", "time": "9:30 am to 11:00 am", "local_time": "12:30 pm to 2:00 pm" },
+        { "title": "Bisrat Program", "time": "11:00 am to 12:00 pm", "local_time": "2:00 pm to 3:00 pm" },
+        { "title": "Music Session", "time": "12:00 pm to 12:30 pm", "local_time": "3:00 pm to 3:30 pm" },
+        { "title": "Hulu Addis", "time": "2:00 pm to 4:00 pm", "local_time": "5:00 pm to 7:00 pm" },
+        { "title": "Mese Resort", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
+        { "title": "Bisrat Program", "time": "6:00 pm to 6:30 pm", "local_time": "9:00 pm to 9:30 pm" },
+        { "title": "Saint George FC", "time": "6:30 pm to 8:00 pm", "local_time": "9:30 pm to 11:00 pm" },
+        { "title": "Girum Kanna", "time": "7:00 pm to 9:00 pm", "local_time": "10:00 pm to 12:00 am" },
+        { "title": "Yamral", "time": "8:00 pm to 10:00 pm", "local_time": "11:00 pm to 1:00 am" },
+        { "title": "Seat Elafi", "time": "9:00 pm to 10:00 pm", "local_time": "12:00 am to 1:00 am" },
+        { "title": "Bisrat Program", "time": "10:00 pm to 12:00 am", "local_time": "1:00 am to 3:00 am" }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "date": "26th Sep",
+      "programs": [
+        { "title": "Bisrat Sunrise", "time": "6:00 am to 7:00 am", "local_time": "9:00 am to 10:00 am" },
+        { "title": "Bisrat Program", "time": "7:00 am to 8:00 am", "local_time": "10:00 am to 11:00 am" },
+        { "title": "Asham", "time": "8:00 am to 9:00 am", "local_time": "11:00 am to 12:00 pm" },
+        { "title": "Ethio Buna Sport Club", "time": "9:00 am to 11:00 am", "local_time": "12:00 pm to 2:00 pm" },
+        { "title": "Elfign", "time": "11:00 am to 1:00 pm", "local_time": "2:00 pm to 4:00 pm" },
+        { "title": "Bisrat Program", "time": "1:00 pm to 2:00 pm", "local_time": "4:00 pm to 5:00 pm" },
+        { "title": "Bisrat Tewista", "time": "2:00 pm to 4:00 pm", "local_time": "5:00 pm to 7:00 pm" },
+        { "title": "Egirquasen Beredio", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
+        { "title": "Bisrat Program", "time": "6:00 pm to 7:00 pm", "local_time": "9:00 pm to 10:00 pm" }
+      ]
+    }
+  ]
+}

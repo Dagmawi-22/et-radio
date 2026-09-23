@@ -65,7 +65,8 @@
         "Accept": "audio/mpeg,audio/*;q=0.9,*/*;q=0.8"
       },
       "accent": "#5C2E0C",
-      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/bisrat-101-1.jpeg"
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/bisrat-101-1.jpeg",
+      "scheduleUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/schedule/bisrat-fm-101.1.json"
     },
     {
       "id": "ahadu-94-3",
@@ -176,138 +177,5 @@
       "accent": "#6A3B1F"
     }
   ],
-  "programs": [
-    {
-      "id": "sheger-yekatit",
-      "stationId": "sheger-102-1",
-      "title": "Yekatit Show",
-      "host": "Meaza Biru",
-      "description": "Morning conversation, coffee, and callers.",
-      "startTime": "09:00",
-      "endTime": "11:00",
-      "days": [1, 2, 3, 4, 5],
-      "emoji": "☕"
-    },
-    {
-      "id": "sheger-arts",
-      "stationId": "sheger-102-1",
-      "title": "Arts Corner",
-      "description": "Ethiopian literature, film, and stage.",
-      "startTime": "20:00",
-      "endTime": "21:30",
-      "days": [6],
-      "emoji": "🎭"
-    },
-    {
-      "id": "sheger-latenight",
-      "stationId": "sheger-102-1",
-      "title": "Late Night Jazz",
-      "description": "Ethio-jazz till midnight.",
-      "startTime": "22:00",
-      "endTime": "00:00",
-      "days": [4, 5, 6],
-      "emoji": "🎷"
-    },
-    {
-      "id": "fana-morning-news",
-      "stationId": "fana-98-1",
-      "title": "Morning Brief",
-      "description": "National and regional news at the top of the day.",
-      "startTime": "07:00",
-      "endTime": "08:00",
-      "days": [1, 2, 3, 4, 5],
-      "emoji": "📰"
-    },
-    {
-      "id": "fana-evening-news",
-      "stationId": "fana-98-1",
-      "title": "Evening Report",
-      "description": "Wrap-up of the day's stories.",
-      "startTime": "19:00",
-      "endTime": "20:00",
-      "days": [0, 1, 2, 3, 4, 5, 6],
-      "emoji": "🌆"
-    },
-    {
-      "id": "afro-breakfast",
-      "stationId": "afro-105-3",
-      "title": "Breakfast in English",
-      "description": "Music, weather, and city guide in English.",
-      "startTime": "07:30",
-      "endTime": "10:00",
-      "days": [1, 2, 3, 4, 5],
-      "emoji": "🥐"
-    },
-    {
-      "id": "afro-drive",
-      "stationId": "afro-105-3",
-      "title": "The Drive",
-      "description": "Rush hour hits and traffic in English.",
-      "startTime": "17:00",
-      "endTime": "19:00",
-      "days": [1, 2, 3, 4, 5],
-      "emoji": "🚗"
-    },
-    {
-      "id": "ethio-lunch",
-      "stationId": "ethio-107-8",
-      "title": "Midday Mix",
-      "description": "Lunchtime music and short interviews.",
-      "startTime": "12:00",
-      "endTime": "14:00",
-      "days": [1, 2, 3, 4, 5],
-      "emoji": "🍽"
-    },
-    {
-      "id": "bisrat-tribune-sport",
-      "stationId": "bisrat-101-1",
-      "title": "Tribune Sport",
-      "description": "Weekly deep-dive into the biggest football stories.",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "days": [6, 0],
-      "emoji": "⚽",
-      "coverUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/programs/bisrat-tribune-sport.jpeg"
-    },
-    {
-      "id": "bisrat-morning",
-      "stationId": "bisrat-101-1",
-      "title": "Morning Grace",
-      "description": "Reflection and worship to start the day.",
-      "startTime": "06:00",
-      "endTime": "07:00",
-      "days": [0, 1, 2, 3, 4, 5, 6],
-      "emoji": "🕊"
-    },
-    {
-      "id": "ahadu-culture",
-      "stationId": "ahadu-94-3",
-      "title": "Culture Hour",
-      "description": "Traditions, food, and language deep-dives.",
-      "startTime": "18:00",
-      "endTime": "19:00",
-      "days": [2, 4],
-      "emoji": "🥁"
-    },
-    {
-      "id": "sport-radio-match",
-      "stationId": "sport-radio",
-      "title": "Match Day Live",
-      "description": "Commentary on Ethiopian Premier League matches.",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "days": [0, 6],
-      "emoji": "⚽"
-    },
-    {
-      "id": "voa-amharic-news",
-      "stationId": "voa-amharic",
-      "title": "VOA Amharic Daily",
-      "description": "International news in Amharic.",
-      "startTime": "20:00",
-      "endTime": "21:00",
-      "days": [0, 1, 2, 3, 4, 5, 6],
-      "emoji": "🌍"
-    }
-  ]
+  "programs": []
 }
