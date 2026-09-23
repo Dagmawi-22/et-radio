@@ -57,7 +57,7 @@
       "city": "Addis Ababa",
       "language": "Amharic",
       "tagline": "Inspiration for the day",
-      "categories": ["religious", "talk", "sports"],
+      "categories": ["talk", "sports"],
       "streamUrl": "https://bisratfm-atunwadigital.streamguys1.com/bisratfm",
       "streamHeaders": {
         "User-Agent": "ExoPlayer",
