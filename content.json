@@ -88,6 +88,7 @@
       "tagline": "Public radio in English",
       "categories": ["news", "culture", "talk"],
       "streamUrl": "https://stream.zeno.fm/2xguamap7yzuv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ebc.jpeg",
       "accent": "#0F7B3E"
     },
     {
@@ -99,6 +100,7 @@
       "tagline": "International news in Amharic",
       "categories": ["news", "diaspora"],
       "streamUrl": "https://voa-ingest.akamaized.net/hls/live/2035564/158_323R/playlist.m3u8",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/voa.jpeg",
       "accent": "#4A2C1C"
     },
     {
@@ -121,6 +123,7 @@
       "tagline": "Talk, music, and city stories",
       "categories": ["talk", "music", "culture"],
       "streamUrl": "https://stream.zeno.fm/x751reg18zhvv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/tirita.jpeg",
       "accent": "#A56A32"
     },
     {
@@ -132,6 +135,7 @@
       "tagline": "Voice of Arada",
       "categories": ["music", "culture", "talk"],
       "streamUrl": "https://stream.zeno.fm/6immfxu3d5lvv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/arada.png",
       "accent": "#BE6A3F"
     },
     {
@@ -143,6 +147,7 @@
       "tagline": "The taste of the airwaves",
       "categories": ["music", "talk", "culture"],
       "streamUrl": "https://stream.zeno.fm/ffg8htkh1k0uv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/taem.png",
       "accent": "#D08A44"
     },
     {
@@ -165,6 +170,7 @@
       "tagline": "New Ethiopian sounds",
       "categories": ["music", "culture", "talk"],
       "streamUrl": "https://stream.zeno.fm/1cyn1as4v68uv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/jan-fm.jpeg",
       "accent": "#6A3B1F"
     }
   ],
