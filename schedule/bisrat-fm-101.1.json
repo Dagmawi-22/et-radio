@@ -108,6 +108,22 @@
         { "title": "Egirquasen Beredio", "time": "4:00 pm to 6:00 pm", "local_time": "7:00 pm to 9:00 pm" },
         { "title": "Bisrat Program", "time": "6:00 pm to 7:00 pm", "local_time": "9:00 pm to 10:00 pm" }
       ]
+    },
+    {
+      "day": "Sunday",
+      "date": "27th Sep",
+      "programs": [
+        { "title": "Bisrat Program", "time": "6:00 am to 8:00 am", "local_time": "9:00 am to 11:00 am" },
+        { "title": "Bisrat Sport", "time": "8:00 am to 10:00 am", "local_time": "11:00 am to 1:00 pm" },
+        { "title": "Tribune Sport", "time": "10:00 am to 12:00 pm", "local_time": "1:00 pm to 3:00 pm" },
+        { "title": "Bisrat Program", "time": "12:00 pm to 2:00 pm", "local_time": "3:00 pm to 5:00 pm" },
+        { "title": "Zemen Teshagari Musics", "time": "2:00 pm to 3:00 pm", "local_time": "5:00 pm to 6:00 pm" },
+        { "title": "Bisrat Program", "time": "3:00 pm to 6:00 pm", "local_time": "6:00 pm to 9:00 pm" },
+        { "title": "Is It", "time": "6:00 pm to 7:00 pm", "local_time": "9:00 pm to 10:00 pm" },
+        { "title": "Girum Kanna", "time": "7:00 pm to 9:00 pm", "local_time": "10:00 pm to 12:00 am" },
+        { "title": "Yamral", "time": "8:00 pm to 10:00 pm", "local_time": "11:00 pm to 1:00 am" },
+        { "title": "Bisrat Program", "time": "10:00 pm to 12:00 am", "local_time": "1:00 am to 3:00 am" }
+      ]
     }
   ]
 }
