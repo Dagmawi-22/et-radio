@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T00:00:00Z",
+  "updatedAt": "2026-09-23T00:00:00Z",
   "stations": [
     {
       "id": "sheger-102-1",
@@ -112,6 +112,7 @@
       "tagline": "Every match, every minute",
       "categories": ["sports", "talk"],
       "streamUrl": "https://stream.zeno.fm/bqtruhn4q98uv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/sport.jpg",
       "accent": "#0F7B3E"
     },
     {
@@ -159,6 +160,7 @@
       "tagline": "Addis on the dial",
       "categories": ["news", "talk", "music"],
       "streamUrl": "https://stream.zeno.fm/rb6wbrap7yzuv",
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/fm-addis.jpeg",
       "accent": "#9C6238"
     },
     {
