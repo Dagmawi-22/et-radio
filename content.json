@@ -48,7 +48,8 @@
       "categories": ["news", "music", "talk"],
       "streamUrl": "https://stream.zeno.fm/72y045deqeruv",
       "accent": "#7A4423",
-      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ethio-107-8.png"
+      "logoUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/logos/ethio-107-8.png",
+      "scheduleUrl": "https://raw.githubusercontent.com/Dagmawi-22/et-radio/main/schedule/ethio-fm-107.8.json"
     },
     {
       "id": "bisrat-101-1",
