@@ -1,120 +1,120 @@
 {
   "station": "Ethio FM 107.8",
-  "timezone_note": "Times shown are Ethiopian Local Time [UTC+3, Africa/Addis Ababa] on the Ethiopian clock (12:00 = 6:00 am / 6:00 pm)",
+  "timezone_note": "Times shown are Ethiopian Local Time [UTC+3, Africa/Addis Ababa]",
   "days": [
     {
       "day": "Monday",
       "date": "21st Sep",
       "programs": [
-        { "title": "የማለዳ ዜና ፓኬጅ", "time": "12:00 to 2:00", "local_time": "12:00 to 2:00" },
-        { "title": "ኢትዮ ስፖርት", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "ልጆቻችን ኢትዮጵያ", "time": "3:00 to 4:30", "local_time": "3:00 to 4:30" },
-        { "title": "ምልዓት", "time": "3:30 to 5:00", "local_time": "3:30 to 5:00" },
-        { "title": "አስታራቂ", "time": "5:00 to 6:00", "local_time": "5:00 to 6:00" },
-        { "title": "የምሳ ሠዓት ዜና", "time": "6:00 to 6:30", "local_time": "6:00 to 6:30" },
-        { "title": "ኢትዮ ጣዕም", "time": "6:00 to 8:00", "local_time": "6:00 to 8:00" },
-        { "title": "ታዲያስ አዲስ", "time": "8:00 to 10:00", "local_time": "8:00 to 10:00" },
-        { "title": "ክቡራትና ክቡራን", "time": "10:00 to 12:00", "local_time": "10:00 to 12:00" }
+        { "title": "የማለዳ ዜና ፓኬጅ", "time": "6:00 am to 8:00 am", "local_time": "6:00 am to 8:00 am" },
+        { "title": "ኢትዮ ስፖርት", "time": "8:00 am to 9:00 am", "local_time": "8:00 am to 9:00 am" },
+        { "title": "ልጆቻችን ኢትዮጵያ", "time": "9:00 am to 10:30 am", "local_time": "9:00 am to 10:30 am" },
+        { "title": "ምልዓት", "time": "9:30 am to 11:00 am", "local_time": "9:30 am to 11:00 am" },
+        { "title": "አስታራቂ", "time": "11:00 am to 12:00 pm", "local_time": "11:00 am to 12:00 pm" },
+        { "title": "የምሳ ሠዓት ዜና", "time": "12:00 pm to 12:30 pm", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "ኢትዮ ጣዕም", "time": "12:00 pm to 2:00 pm", "local_time": "12:00 pm to 2:00 pm" },
+        { "title": "ታዲያስ አዲስ", "time": "2:00 pm to 4:00 pm", "local_time": "2:00 pm to 4:00 pm" },
+        { "title": "ክቡራትና ክቡራን", "time": "4:00 pm to 6:00 pm", "local_time": "4:00 pm to 6:00 pm" }
       ]
     },
     {
       "day": "Tuesday",
       "date": "22nd Sep",
       "programs": [
-        { "title": "የማለዳ ዜና ፓኬጅ", "time": "12:00 to 2:00", "local_time": "12:00 to 2:00" },
-        { "title": "ኢትዮ ስፖርት", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "የኛ ጉዳይ", "time": "3:30 to 4:30", "local_time": "3:30 to 4:30" },
-        { "title": "መረጃና ሙዚቃ", "time": "4:30 to 5:00", "local_time": "4:30 to 5:00" },
-        { "title": "ዳጉ ኢትዮጵያ", "time": "5:00 to 6:00", "local_time": "5:00 to 6:00" },
-        { "title": "የምሳ ሠዓት ዜና", "time": "6:00 to 6:30", "local_time": "6:00 to 6:30" },
-        { "title": "ክቡራትና ክቡራን", "time": "6:00 to 7:00", "local_time": "6:00 to 7:00" },
-        { "title": "ቢዝነስ ላንች", "time": "6:30 to 7:30", "local_time": "6:30 to 7:30" },
-        { "title": "ዳና ኮኔክሽን", "time": "7:00 to 8:30", "local_time": "7:00 to 8:30" },
-        { "title": "ታዲያስ አዲስ", "time": "8:00 to 10:00", "local_time": "8:00 to 10:00" },
-        { "title": "ክቡራትና ክቡራን", "time": "10:00 to 12:00", "local_time": "10:00 to 12:00" }
+        { "title": "የማለዳ ዜና ፓኬጅ", "time": "6:00 am to 8:00 am", "local_time": "6:00 am to 8:00 am" },
+        { "title": "ኢትዮ ስፖርት", "time": "8:00 am to 9:00 am", "local_time": "8:00 am to 9:00 am" },
+        { "title": "የኛ ጉዳይ", "time": "9:30 am to 10:30 am", "local_time": "9:30 am to 10:30 am" },
+        { "title": "መረጃና ሙዚቃ", "time": "10:30 am to 11:00 am", "local_time": "10:30 am to 11:00 am" },
+        { "title": "ዳጉ ኢትዮጵያ", "time": "11:00 am to 12:00 pm", "local_time": "11:00 am to 12:00 pm" },
+        { "title": "የምሳ ሠዓት ዜና", "time": "12:00 pm to 12:30 pm", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "ክቡራትና ክቡራን", "time": "12:00 pm to 1:00 pm", "local_time": "12:00 pm to 1:00 pm" },
+        { "title": "ቢዝነስ ላንች", "time": "12:30 pm to 1:30 pm", "local_time": "12:30 pm to 1:30 pm" },
+        { "title": "ዳና ኮኔክሽን", "time": "1:00 pm to 2:30 pm", "local_time": "1:00 pm to 2:30 pm" },
+        { "title": "ታዲያስ አዲስ", "time": "2:00 pm to 4:00 pm", "local_time": "2:00 pm to 4:00 pm" },
+        { "title": "ክቡራትና ክቡራን", "time": "4:00 pm to 6:00 pm", "local_time": "4:00 pm to 6:00 pm" }
       ]
     },
     {
       "day": "Wednesday",
       "date": "23rd Sep",
       "programs": [
-        { "title": "የማለዳ ዜና ፓኬጅ", "time": "12:00 to 2:00", "local_time": "12:00 to 2:00" },
-        { "title": "ኢትዮ ስፖርት", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "ላይፍ ኢዝ ጉድ", "time": "3:30 to 5:00", "local_time": "3:30 to 5:00" },
-        { "title": "ኢትዮ ጣዕም", "time": "5:00 to 6:00", "local_time": "5:00 to 6:00" },
-        { "title": "የምሳ ሠዓት ዜና", "time": "6:00 to 6:30", "local_time": "6:00 to 6:30" },
-        { "title": "ምሳና ሙዚቃ", "time": "6:30 to 7:30", "local_time": "6:30 to 7:30" },
-        { "title": "ታዲያስ አዲስ", "time": "8:00 to 10:00", "local_time": "8:00 to 10:00" },
-        { "title": "ክቡራትና ክቡራን", "time": "10:00 to 12:00", "local_time": "10:00 to 12:00" },
-        { "title": "ኢትዮ ቢዝነስ ፎረም", "time": "12:00 to 1:00", "local_time": "12:00 to 1:00" },
-        { "title": "የጀርመን ድምፅ ሬዲዮ", "time": "1:00 to 2:00", "local_time": "1:00 to 2:00" },
-        { "title": "ውበት በኢትዮ", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "ምሽቱን ከሄኒኬ ጋር", "time": "3:00 to 6:00", "local_time": "3:00 to 6:00" },
-        { "title": "ታዲያስ አዲስ", "time": "3:00 to 7:00", "local_time": "3:00 to 7:00" }
+        { "title": "የማለዳ ዜና ፓኬጅ", "time": "6:00 am to 8:00 am", "local_time": "6:00 am to 8:00 am" },
+        { "title": "ኢትዮ ስፖርት", "time": "8:00 am to 9:00 am", "local_time": "8:00 am to 9:00 am" },
+        { "title": "ላይፍ ኢዝ ጉድ", "time": "9:30 am to 11:00 am", "local_time": "9:30 am to 11:00 am" },
+        { "title": "ኢትዮ ጣዕም", "time": "11:00 am to 12:00 pm", "local_time": "11:00 am to 12:00 pm" },
+        { "title": "የምሳ ሠዓት ዜና", "time": "12:00 pm to 12:30 pm", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "ምሳና ሙዚቃ", "time": "12:30 pm to 1:30 pm", "local_time": "12:30 pm to 1:30 pm" },
+        { "title": "ታዲያስ አዲስ", "time": "2:00 pm to 4:00 pm", "local_time": "2:00 pm to 4:00 pm" },
+        { "title": "ክቡራትና ክቡራን", "time": "4:00 pm to 6:00 pm", "local_time": "4:00 pm to 6:00 pm" },
+        { "title": "ኢትዮ ቢዝነስ ፎረም", "time": "6:00 pm to 7:00 pm", "local_time": "6:00 pm to 7:00 pm" },
+        { "title": "የጀርመን ድምፅ ሬዲዮ", "time": "7:00 pm to 8:00 pm", "local_time": "7:00 pm to 8:00 pm" },
+        { "title": "ውበት በኢትዮ", "time": "8:00 pm to 9:00 pm", "local_time": "8:00 pm to 9:00 pm" },
+        { "title": "ምሽቱን ከሄኒኬ ጋር", "time": "9:00 pm to 12:00 am", "local_time": "9:00 pm to 12:00 am" },
+        { "title": "ታዲያስ አዲስ", "time": "9:00 pm to 1:00 am", "local_time": "9:00 pm to 1:00 am" }
       ]
     },
     {
       "day": "Thursday",
       "date": "24th Sep",
       "programs": [
-        { "title": "የማለዳ ዜና ፓኬጅ", "time": "12:00 to 2:00", "local_time": "12:00 to 2:00" },
-        { "title": "ኢትዮ ስፖርት", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "ላይፍ ኢዝ ጉድ", "time": "3:30 to 5:00", "local_time": "3:30 to 5:00" },
-        { "title": "ማራኪ ጤና", "time": "5:00 to 6:00", "local_time": "5:00 to 6:00" },
-        { "title": "የምሳ ሠዓት ዜና", "time": "6:00 to 6:30", "local_time": "6:00 to 6:30" },
-        { "title": "ቢዝነስ ላንች", "time": "6:30 to 7:30", "local_time": "6:30 to 7:30" },
-        { "title": "መረጃና ሙዚቃ", "time": "7:30 to 8:00", "local_time": "7:30 to 8:00" },
-        { "title": "ታዲያስ አዲስ", "time": "8:00 to 10:00", "local_time": "8:00 to 10:00" },
-        { "title": "ዘናጭ", "time": "8:00 to 10:00", "local_time": "8:00 to 10:00" },
-        { "title": "ሴኔታ ሾው", "time": "12:00 to 1:30", "local_time": "12:00 to 1:30" },
-        { "title": "ዎል ስትሪት አዲስ", "time": "1:00 to 2:00", "local_time": "1:00 to 2:00" },
-        { "title": "አውደ ሕይወት", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "የፊደል ገበታ", "time": "3:00 to 4:00", "local_time": "3:00 to 4:00" }
+        { "title": "የማለዳ ዜና ፓኬጅ", "time": "6:00 am to 8:00 am", "local_time": "6:00 am to 8:00 am" },
+        { "title": "ኢትዮ ስፖርት", "time": "8:00 am to 9:00 am", "local_time": "8:00 am to 9:00 am" },
+        { "title": "ላይፍ ኢዝ ጉድ", "time": "9:30 am to 11:00 am", "local_time": "9:30 am to 11:00 am" },
+        { "title": "ማራኪ ጤና", "time": "11:00 am to 12:00 pm", "local_time": "11:00 am to 12:00 pm" },
+        { "title": "የምሳ ሠዓት ዜና", "time": "12:00 pm to 12:30 pm", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "ቢዝነስ ላንች", "time": "12:30 pm to 1:30 pm", "local_time": "12:30 pm to 1:30 pm" },
+        { "title": "መረጃና ሙዚቃ", "time": "1:30 pm to 2:00 pm", "local_time": "1:30 pm to 2:00 pm" },
+        { "title": "ታዲያስ አዲስ", "time": "2:00 pm to 4:00 pm", "local_time": "2:00 pm to 4:00 pm" },
+        { "title": "ዘናጭ", "time": "2:00 pm to 4:00 pm", "local_time": "2:00 pm to 4:00 pm" },
+        { "title": "ሴኔታ ሾው", "time": "6:00 pm to 7:30 pm", "local_time": "6:00 pm to 7:30 pm" },
+        { "title": "ዎል ስትሪት አዲስ", "time": "7:00 pm to 8:00 pm", "local_time": "7:00 pm to 8:00 pm" },
+        { "title": "አውደ ሕይወት", "time": "8:00 pm to 9:00 pm", "local_time": "8:00 pm to 9:00 pm" },
+        { "title": "የፊደል ገበታ", "time": "9:00 pm to 10:00 pm", "local_time": "9:00 pm to 10:00 pm" }
       ]
     },
     {
       "day": "Friday",
       "date": "25th Sep",
       "programs": [
-        { "title": "የማለዳ ዜና ፓኬጅ", "time": "12:00 to 2:00", "local_time": "12:00 to 2:00" },
-        { "title": "ኢትዮ ስፖርት", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "እልፍኝ", "time": "4:00 to 6:00", "local_time": "4:00 to 6:00" },
-        { "title": "ኢትዮ አውቶሞቲቭ", "time": "5:00 to 6:00", "local_time": "5:00 to 6:00" },
-        { "title": "የምሳ ሠዓት ዜና", "time": "6:00 to 6:30", "local_time": "6:00 to 6:30" },
-        { "title": "ሙዚቃ", "time": "6:30 to 7:00", "local_time": "6:30 to 7:00" },
-        { "title": "መረጃና ሙዚቃ", "time": "7:30 to 8:00", "local_time": "7:30 to 8:00" },
-        { "title": "ኢትዮ ቱሪዝም", "time": "8:30 to 10:00", "local_time": "8:30 to 10:00" },
-        { "title": "ወቅታዊ ሚዲያ", "time": "4:00 to 6:00", "local_time": "4:00 to 6:00" },
-        { "title": "ዲጄ ናቲ", "time": "4:00 to 6:00", "local_time": "4:00 to 6:00" },
-        { "title": "ካሪቡ አውቶሞቲቭ", "time": "12:00 to 1:00", "local_time": "12:00 to 1:00" },
-        { "title": "ካሪቱ አውቶሞቲቭ", "time": "1:30 to 2:00", "local_time": "1:30 to 2:00" },
-        { "title": "አፍኪ መዝናኛ", "time": "4:00 to 6:00", "local_time": "4:00 to 6:00" },
-        { "title": "ዲጄ ሼሪ", "time": "4:00 to 6:00", "local_time": "4:00 to 6:00" }
+        { "title": "የማለዳ ዜና ፓኬጅ", "time": "6:00 am to 8:00 am", "local_time": "6:00 am to 8:00 am" },
+        { "title": "ኢትዮ ስፖርት", "time": "8:00 am to 9:00 am", "local_time": "8:00 am to 9:00 am" },
+        { "title": "እልፍኝ", "time": "10:00 am to 12:00 pm", "local_time": "10:00 am to 12:00 pm" },
+        { "title": "ኢትዮ አውቶሞቲቭ", "time": "11:00 am to 12:00 pm", "local_time": "11:00 am to 12:00 pm" },
+        { "title": "የምሳ ሠዓት ዜና", "time": "12:00 pm to 12:30 pm", "local_time": "12:00 pm to 12:30 pm" },
+        { "title": "ሙዚቃ", "time": "12:30 pm to 1:00 pm", "local_time": "12:30 pm to 1:00 pm" },
+        { "title": "መረጃና ሙዚቃ", "time": "1:30 pm to 2:00 pm", "local_time": "1:30 pm to 2:00 pm" },
+        { "title": "ኢትዮ ቱሪዝም", "time": "2:30 pm to 4:00 pm", "local_time": "2:30 pm to 4:00 pm" },
+        { "title": "ወቅታዊ ሚዲያ", "time": "10:00 pm to 12:00 am", "local_time": "10:00 pm to 12:00 am" },
+        { "title": "ዲጄ ናቲ", "time": "10:00 pm to 12:00 am", "local_time": "10:00 pm to 12:00 am" },
+        { "title": "ካሪቡ አውቶሞቲቭ", "time": "6:00 pm to 7:00 pm", "local_time": "6:00 pm to 7:00 pm" },
+        { "title": "ካሪቱ አውቶሞቲቭ", "time": "7:30 pm to 8:00 pm", "local_time": "7:30 pm to 8:00 pm" },
+        { "title": "አፍኪ መዝናኛ", "time": "10:00 pm to 12:00 am", "local_time": "10:00 pm to 12:00 am" },
+        { "title": "ዲጄ ሼሪ", "time": "10:00 pm to 12:00 am", "local_time": "10:00 pm to 12:00 am" }
       ]
     },
     {
       "day": "Saturday",
       "date": "26th Sep",
       "programs": [
-        { "title": "የማለዳ ዜና ፓኬጅ", "time": "12:00 to 2:00", "local_time": "12:00 to 2:00" },
-        { "title": "ሰንበት ቁርስ", "time": "12:00 to 3:00", "local_time": "12:00 to 3:00" },
-        { "title": "ውሃ ልክ", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" },
-        { "title": "ዎል ስትሪት አዲስ", "time": "7:00 to 8:00", "local_time": "7:00 to 8:00" },
-        { "title": "ቀጥታ ኳስ ክላሲክ ስፖርት ዳይናሚክ ስፖርት", "time": "11:00 to 12:00", "local_time": "11:00 to 12:00" },
-        { "title": "ኢትዩፒዲያ ጥያቄና መልስ", "time": "12:00 to 1:30", "local_time": "12:00 to 1:30" }
+        { "title": "የማለዳ ዜና ፓኬጅ", "time": "6:00 am to 8:00 am", "local_time": "6:00 am to 8:00 am" },
+        { "title": "ሰንበት ቁርስ", "time": "6:00 am to 9:00 am", "local_time": "6:00 am to 9:00 am" },
+        { "title": "ውሃ ልክ", "time": "8:00 am to 9:00 am", "local_time": "8:00 am to 9:00 am" },
+        { "title": "ዎል ስትሪት አዲስ", "time": "1:00 pm to 2:00 pm", "local_time": "1:00 pm to 2:00 pm" },
+        { "title": "ቀጥታ ኳስ ክላሲክ ስፖርት ዳይናሚክ ስፖርት", "time": "5:00 pm to 6:00 pm", "local_time": "5:00 pm to 6:00 pm" },
+        { "title": "ኢትዩፒዲያ ጥያቄና መልስ", "time": "6:00 pm to 7:30 pm", "local_time": "6:00 pm to 7:30 pm" }
       ]
     },
     {
       "day": "Sunday",
       "date": "27th Sep",
       "programs": [
-        { "title": "ቀጥታ ኳስ ክላሲክ ስፖርት ዳይናሚክ ስፖርት", "time": "9:00 to 1:00", "local_time": "9:00 to 1:00" },
-        { "title": "ዘናጭ", "time": "10:00 to 12:00", "local_time": "10:00 to 12:00" },
-        { "title": "ካሪቡ አውቶሞቲቭ", "time": "12:00 to 1:00", "local_time": "12:00 to 1:00" },
-        { "title": "የጀርመን ድምፅ ሬዲዮ", "time": "1:00 to 2:00", "local_time": "1:00 to 2:00" },
-        { "title": "ዳና ኮኔክሽን", "time": "2:00 to 4:00", "local_time": "2:00 to 4:00" },
-        { "title": "አፍኪ ሚዲያ", "time": "2:00 to 4:00", "local_time": "2:00 to 4:00" },
-        { "title": "የፊደል ገበታ", "time": "2:00 to 3:00", "local_time": "2:00 to 3:00" }
+        { "title": "ቀጥታ ኳስ ክላሲክ ስፖርት ዳይናሚክ ስፖርት", "time": "3:00 pm to 7:00 pm", "local_time": "3:00 pm to 7:00 pm" },
+        { "title": "ዘናጭ", "time": "4:00 pm to 6:00 pm", "local_time": "4:00 pm to 6:00 pm" },
+        { "title": "ካሪቡ አውቶሞቲቭ", "time": "6:00 pm to 7:00 pm", "local_time": "6:00 pm to 7:00 pm" },
+        { "title": "የጀርመን ድምፅ ሬዲዮ", "time": "7:00 pm to 8:00 pm", "local_time": "7:00 pm to 8:00 pm" },
+        { "title": "ዳና ኮኔክሽን", "time": "8:00 pm to 10:00 pm", "local_time": "8:00 pm to 10:00 pm" },
+        { "title": "አፍኪ ሚዲያ", "time": "8:00 pm to 10:00 pm", "local_time": "8:00 pm to 10:00 pm" },
+        { "title": "የፊደል ገበታ", "time": "8:00 pm to 9:00 pm", "local_time": "8:00 pm to 9:00 pm" }
       ]
     }
   ]
